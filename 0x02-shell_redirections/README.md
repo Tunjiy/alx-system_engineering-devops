@@ -1,1 +1,2 @@
-helo world script
+#!/bin/bash
+My first directory in shell redirections
